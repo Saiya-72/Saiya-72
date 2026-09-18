@@ -6,7 +6,7 @@ Check out some of what I do:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/)
 
-[![Education](https://img.shields.io/badge/Education-View%20Education-2563EB?style=for-the-badge&logo=book&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#education)
+[![Education](https://img.shields.io/badge/Education-View%20Education-3963EB?style=for-the-badge&logo=book&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#education)
 
 [![Projects](https://img.shields.io/badge/Projects-View%20Projects-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#projects)
 
