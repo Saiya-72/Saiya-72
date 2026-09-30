@@ -2,17 +2,6 @@
 
 My name is Josiah Brown and I am a Junior at the University of Indianapolis dual majoring in Software Engineering and Computer Science! 
 
-Check out some of what I do:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/)
-
-[![Education](https://img.shields.io/badge/Education-View%20Education-800080?style=for-the-badge&logo=book&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#education)
-
-[![Projects](https://img.shields.io/badge/Projects-View%20Projects-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#projects)
-
-[![Experience](https://img.shields.io/badge/Experience-View%20Experience-F97316?style=for-the-badge&logo=briefcase&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#experience)
-
-
 ### A little about me:
 
 - I am a tutor at the University of Indianapolis tutoring in Computer Science, Software Engineering, and Mathematics.
@@ -30,6 +19,16 @@ Check out some of what I do:
 - I am an avid member of the UIndy Racing Team.
 
 - Finally, I had the honor last year to serve the incoming Freshmen (class of 2029) as a peer mentor. I got to help them get connected at UIndy and excel in their first year here.
+
+- Check out some of what I do:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/)
+
+[![Education](https://img.shields.io/badge/Education-View%20Education-800080?style=for-the-badge&logo=book&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#education)
+
+[![Projects](https://img.shields.io/badge/Projects-View%20Projects-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#projects)
+
+[![Experience](https://img.shields.io/badge/Experience-View%20Experience-F97316?style=for-the-badge&logo=briefcase&logoColor=white)](https://saiya-72.github.io/PersonalWebsite_JosiahBrown/#experience)
 
 
 ### Languages I am fluent in
